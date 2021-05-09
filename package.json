@@ -1,0 +1,27 @@
+{
+  "name": "binary-collections",
+  "version": "0.0.1",
+  "description": "Binary functions collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmanto/binary-collections-js.git"
+  },
+  "main": "./index.js",
+  "type": "module",
+  "author": "Daniel Mantovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmanto/binary-collections-js/issues"
+  },
+  "engines": {
+    "node": ">= 15"
+  },
+  "homepage": "https://github.com/dmanto/binary-collections-js#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
